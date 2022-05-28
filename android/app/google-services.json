@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862588003296",
+    "project_id": "futurechat-90cf3",
+    "storage_bucket": "futurechat-90cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862588003296:android:0a434df0693f0e83150185",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebasesetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862588003296-is09f2v51i442bghtd4rjvrb0e0p03vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBenFVkji_FcqNnhzwk_VccAWIoqNmEnZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862588003296-is09f2v51i442bghtd4rjvrb0e0p03vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
